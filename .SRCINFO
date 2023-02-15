@@ -1,7 +1,7 @@
 pkgbase = warcraftlogs-appimage
-	pkgdesc = Warcraft Logs Uploader, allows you to upload log files for analysis.
+	pkgdesc = Warcraft Logs Uploader, allows you to upload log files for analysis
 	pkgver = 6.0.1
-	pkgrel = 1
+	pkgrel = 2
 	url = https://warcraftlogs.com/
 	arch = any
 	license = custom
@@ -11,8 +11,6 @@ pkgbase = warcraftlogs-appimage
 	conflicts = warcraftlogsuploader
 	options = !strip
 	source = https://github.com/RPGLogs/Uploaders-warcraftlogs/releases/download/v6.0.1/Warcraft-Logs-Uploader-6.0.1.AppImage
-	source = warcraftlogs.sh
 	sha256sums = 1663ea5f2028df344ed54a69c587bc606ecc1be5258be4d5afdcbc21e180a154
-	sha256sums = c39b8bcf2df2215c748d0cf07f7db9d3b70a9852bebad4248bc1b61f98d92d1d
 
 pkgname = warcraftlogs-appimage
