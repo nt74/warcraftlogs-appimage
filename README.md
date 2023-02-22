@@ -1,5 +1,6 @@
 # warcraftlogs-appimage
 Warcraft Logs Uploader, allows you to upload log files for analysis for Arch Linux
+Latest version https://github.com/RPGLogs/Uploaders-warcraftlogs
 
 Arch Linux AUR package using AppImage installer.
 
